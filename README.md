@@ -4,6 +4,7 @@
 终于好了
 shenmegui
 #Git has a mutable index called stage.
+#add content
 #单件模式
 单件模式主要是保证了在一个类只有一个实例，并提供了全局访问。
 ###组成：
